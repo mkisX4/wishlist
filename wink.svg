@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Слой_1"
+   data-name="Слой 1"
+   viewBox="0 0 115.08 69.435455"
+   version="1.1"
+   sodipodi:docname="wink.svg"
+   width="115.08"
+   height="69.435455"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.2315789"
+     inkscape:cx="57.543532"
+     inkscape:cy="15.360697"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Слой_1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill-rule:evenodd;}</style>
+  </defs>
+  <title
+     id="title1">Монтажная область 82</title>
+  <path
+     class="cls-1"
+     d="m 72.9,7.79 39.77,-1.17 2.41,20.25 -45.62,-4.18 z M 88.79,63.5 c -17.7,10.23 -48.61,7.24 -60.75,-9 l 9.12,-9.68 C 46.3,52.07 66.82,54.16 82,46.99 Z M 0.27,35.03 13.35,23.31 0,12.31 8.36,0 37.63,19.91 38.05,26.5 9.25,47.06 Z"
+     id="path1" />
+</svg>
